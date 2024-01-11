@@ -1,7 +1,7 @@
 # MusicImp
 ## a pydub implementation to programmatically write music using wav samples
 
-I use audacity to extract the samples from audio files as it's free and has a nice simple interface, but any wav file should work with this program
+I use Audacity to extract the samples from audio files as it's free and has a pleasant interface, but any wav file from any source should work with this program
 
 generate a silent base to add your samples to with generate_base(length_in_ms)
 
