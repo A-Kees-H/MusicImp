@@ -3,7 +3,7 @@
 
 I use Audacity to extract the samples from audio files as it's free and has a pleasant interface, but any wav file from any source should work with this program
 
-generate a silent base to add your samples to with generate_base(length_in_ms)
+generate a silent base track to add your samples to with generate_base(length_in_ms)
 
 squish or stretch a sample using the stretch_or_squish_sample(sample, new_length_in_ms) function
 
